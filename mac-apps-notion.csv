@@ -1,0 +1,153 @@
+#,App,Category,Description,Link
+1,VS Code,Developer Tools,"Free, extensible code editor by Microsoft",https://code.visualstudio.com
+2,VSCodium,Developer Tools,Open-source build of VS Code without telemetry,https://vscodium.com
+3,Cursor,Developer Tools,AI-first code editor built on VS Code,https://www.cursor.com
+4,Zed,Developer Tools,Open-source high-performance code editor,https://zed.dev
+5,Sublime Text,Developer Tools,"Fast, native, lightweight text editor",https://www.sublimetext.com
+6,Neovim,Developer Tools,Open-source hyperextensible Vim-based editor,https://neovim.io
+7,iTerm2,Developer Tools,Powerful open-source terminal emulator,https://iterm2.com
+8,Ghostty,Developer Tools,Fast open-source GPU terminal emulator,https://ghostty.org
+9,Alacritty,Developer Tools,Open-source GPU-accelerated terminal,https://alacritty.org
+10,Warp,Developer Tools,Modern Rust-based terminal with AI,https://www.warp.dev
+11,Tabby,Developer Tools,Open-source customizable terminal,https://tabby.sh
+12,Homebrew,Developer Tools,Open-source package manager for macOS,https://brew.sh
+13,GitHub Desktop,Developer Tools,Open-source Git GUI by GitHub,https://desktop.github.com
+14,Fork,Developer Tools,Fast and friendly Git client,https://git-fork.com
+15,Tower,Developer Tools,Powerful Git client for Mac,https://www.git-tower.com
+16,Sourcetree,Developer Tools,Free Git GUI by Atlassian,https://www.sourcetreeapp.com
+17,Lazygit,Developer Tools,Open-source terminal UI for Git,https://github.com/jesseduffield/lazygit
+18,TablePlus,Developer Tools,"Modern, native database GUI client",https://tableplus.com
+19,DBeaver,Developer Tools,Open-source universal database tool,https://dbeaver.io
+20,Beekeeper Studio,Developer Tools,Open-source SQL editor and manager,https://www.beekeeperstudio.io
+21,Sequel Ace,Developer Tools,Open-source MySQL client for Mac,https://sequel-ace.com
+22,Postico,Developer Tools,Modern PostgreSQL client for Mac,https://eggerapps.at/postico
+23,Bruno,Developer Tools,"Open-source, offline API client",https://www.usebruno.com
+24,Hoppscotch,Developer Tools,Open-source API development client,https://hoppscotch.io
+25,Insomnia,Developer Tools,"API client for REST, GraphQL and gRPC",https://insomnia.rest
+26,Postman,Developer Tools,Popular API development platform,https://www.postman.com
+27,Docker Desktop,Developer Tools,Build and run containers locally,https://www.docker.com/products/docker-desktop
+28,OrbStack,Developer Tools,"Fast, light Docker and Linux on macOS",https://orbstack.dev
+29,Podman Desktop,Developer Tools,Open-source container management,https://podman-desktop.io
+30,Colima,Developer Tools,Open-source container runtimes on Mac,https://github.com/abiosoft/colima
+31,Proxyman,Developer Tools,Native HTTP debugging proxy,https://proxyman.io
+32,mitmproxy,Developer Tools,Open-source interactive HTTPS proxy,https://mitmproxy.org
+33,Responsively,Developer Tools,Open-source browser for responsive dev,https://responsively.app
+34,DevUtils,Developer Tools,Offline developer utilities toolbox,https://devutils.com
+35,Boop,Developer Tools,Open-source scriptable text transformer,https://github.com/IvanMathy/Boop
+36,Ollama,Developer Tools,Open-source tool to run local LLMs,https://ollama.com
+37,LM Studio,Developer Tools,Run local LLMs with a desktop GUI,https://lmstudio.ai
+38,Figma,Design & Creative,Collaborative interface design tool,https://www.figma.com
+39,Sketch,Design & Creative,Mac-native UI and vector design,https://www.sketch.com
+40,Affinity Designer,Design & Creative,Pro vector design app for Mac,https://affinity.serif.com/designer
+41,Affinity Photo,Design & Creative,Pro photo editing app for Mac,https://affinity.serif.com/photo
+42,Pixelmator Pro,Design & Creative,Powerful Mac-native image editor,https://www.pixelmator.com/pro
+43,GIMP,Design & Creative,Open-source image editor,https://www.gimp.org
+44,Krita,Design & Creative,Open-source digital painting app,https://krita.org
+45,Inkscape,Design & Creative,Open-source vector graphics editor,https://inkscape.org
+46,Blender,Design & Creative,Open-source 3D creation suite,https://www.blender.org
+47,Spline,Design & Creative,Free 3D design and modeling tool,https://spline.design
+48,Boxy SVG,Design & Creative,Mac SVG drawing editor,https://boxy-svg.com
+49,Lunacy,Design & Creative,Free design app with built-in assets,https://icons8.com/lunacy
+50,ImageOptim,Design & Creative,Open-source image compressor for Mac,https://imageoptim.com
+51,Upscayl,Design & Creative,Open-source AI image upscaler,https://upscayl.org
+52,Shottr,Design & Creative,"Fast, free screenshot tool for Mac",https://shottr.cc
+53,CleanShot X,Design & Creative,Screen capture and recording suite,https://cleanshot.com
+54,Xnapper,Design & Creative,"Beautiful screenshots, fast",https://xnapper.com
+55,Pika,Design & Creative,Open-source color picker for Mac,https://superhighfives.com/pika
+56,Sip,Design & Creative,Color picker and palette manager,https://sipapp.io
+57,ColorSlurp,Design & Creative,Powerful color picker and palette tool,https://colorslurp.com
+58,Obsidian,Notes & Writing,Local-first markdown knowledge base,https://obsidian.md
+59,Logseq,Notes & Writing,Open-source privacy-first outliner,https://logseq.com
+60,Notion,Notes & Writing,"All-in-one notes, docs and wiki",https://www.notion.so
+61,Joplin,Notes & Writing,Open-source note-taking with sync,https://joplinapp.org
+62,Standard Notes,Notes & Writing,Open-source encrypted notes,https://standardnotes.com
+63,Anytype,Notes & Writing,Open-source local-first knowledge base,https://anytype.io
+64,AppFlowy,Notes & Writing,Open-source Notion alternative,https://appflowy.io
+65,Notesnook,Notes & Writing,Open-source encrypted note-taking,https://notesnook.com
+66,Trilium Notes,Notes & Writing,Open-source hierarchical notes,https://github.com/zadam/trilium
+67,Bear,Notes & Writing,Beautiful Mac-native markdown notes,https://bear.app
+68,Craft,Notes & Writing,Mac-native docs and notes,https://www.craft.do
+69,Zettlr,Notes & Writing,Open-source markdown editor for writing,https://www.zettlr.com
+70,Typora,Notes & Writing,Minimal seamless markdown editor,https://typora.io
+71,MarkText,Notes & Writing,Open-source markdown editor,https://github.com/marktext/marktext
+72,iA Writer,Notes & Writing,Focused markdown writing app,https://ia.net/writer
+73,Heynote,Notes & Writing,Open-source scratchpad for developers,https://heynote.com
+74,Zotero,Notes & Writing,Open-source reference manager,https://www.zotero.org
+75,Calibre,Notes & Writing,Open-source ebook management,https://calibre-ebook.com
+76,Things 3,Tasks & Productivity,Award-winning Mac task manager,https://culturedcode.com/things
+77,Todoist,Tasks & Productivity,Popular cross-platform to-do app,https://todoist.com
+78,TickTick,Tasks & Productivity,"Tasks, calendar and habits",https://ticktick.com
+79,Super Productivity,Tasks & Productivity,Open-source to-do and time tracker,https://super-productivity.com
+80,Fantastical,Tasks & Productivity,Powerful calendar app for Mac,https://flexibits.com/fantastical
+81,Notion Calendar,Tasks & Productivity,"Beautiful, minimal calendar app",https://www.notion.so/product/calendar
+82,Morgen,Tasks & Productivity,Calendar and task planner,https://www.morgen.so
+83,Toggl Track,Tasks & Productivity,"Simple, flexible time tracking",https://toggl.com/track
+84,Raycast,Window Management & Launchers,Extensible launcher and productivity hub,https://www.raycast.com
+85,Alfred,Window Management & Launchers,"Launcher, workflows and clipboard",https://www.alfredapp.com
+86,Rectangle,Window Management & Launchers,Open-source window manager,https://rectangleapp.com
+87,Loop,Window Management & Launchers,Open-source radial-menu window manager,https://github.com/MrKai77/Loop
+88,AeroSpace,Window Management & Launchers,Open-source i3-like tiling manager,https://github.com/nikitabobko/AeroSpace
+89,Yabai,Window Management & Launchers,Open-source tiling window manager,https://github.com/koekeishiya/yabai
+90,Amethyst,Window Management & Launchers,Open-source tiling window manager,https://ianyh.com/amethyst
+91,Hammerspoon,Window Management & Launchers,Open-source macOS automation with Lua,https://www.hammerspoon.org
+92,BetterTouchTool,Window Management & Launchers,Customize input devices and gestures,https://folivora.ai
+93,Ice,Menu Bar & System,Open-source menu bar manager,https://github.com/jordanbaird/Ice
+94,Bartender,Menu Bar & System,Organize and hide menu bar items,https://www.macbartender.com
+95,Hidden Bar,Menu Bar & System,Open-source menu bar hider,https://github.com/dwarvesf/hidden
+96,Stats,Menu Bar & System,Open-source system monitor in menu bar,https://github.com/exelban/stats
+97,iStat Menus,Menu Bar & System,Advanced system monitor for menu bar,https://bjango.com/mac/istatmenus
+98,Itsycal,Menu Bar & System,Open-source menu bar calendar,https://www.mowglii.com/itsycal
+99,Maccy,Menu Bar & System,Open-source clipboard manager,https://maccy.app
+100,Espanso,Menu Bar & System,Open-source cross-platform text expander,https://espanso.org
+101,Karabiner-Elements,Menu Bar & System,Open-source keyboard customizer,https://karabiner-elements.pqrs.org
+102,MonitorControl,Menu Bar & System,Open-source external display control,https://github.com/MonitorControl/MonitorControl
+103,AlDente,Menu Bar & System,Battery charge limiter for Mac,https://apphousekitchen.com
+104,KeepingYouAwake,Menu Bar & System,Open-source caffeine for Mac,https://github.com/newmarcel/KeepingYouAwake
+105,Amphetamine,Menu Bar & System,"Free, powerful keep-awake utility",https://apps.apple.com/app/amphetamine/id937984704
+106,The Unarchiver,Files & Utilities,"Free, versatile archive extractor",https://theunarchiver.com
+107,Keka,Files & Utilities,Open-source file archiver for Mac,https://www.keka.io
+108,AppCleaner,Files & Utilities,"Free, thorough app uninstaller",https://freemacsoft.net/appcleaner
+109,Pearcleaner,Files & Utilities,Open-source app uninstaller,https://github.com/alienator88/Pearcleaner
+110,Latest,Files & Utilities,Open-source app update checker,https://github.com/mangerlahn/Latest
+111,GrandPerspective,Files & Utilities,Open-source disk usage visualizer,https://grandperspectiv.sourceforge.net
+112,DaisyDisk,Files & Utilities,Visual disk space analyzer,https://daisydiskapp.com
+113,OnyX,Files & Utilities,Free macOS maintenance tool,https://www.titanium-software.fr/en/onyx.html
+114,LocalSend,Files & Utilities,Open-source AirDrop alternative,https://localsend.org
+115,Transmission,Files & Utilities,Open-source BitTorrent client,https://transmissionbt.com
+116,Numi,Files & Utilities,Calculator that understands plain language,https://numi.app
+117,IINA,Media & Screen Recording,Open-source modern media player for Mac,https://iina.io
+118,VLC,Media & Screen Recording,Open-source media player for anything,https://www.videolan.org/vlc
+119,HandBrake,Media & Screen Recording,Open-source video transcoder,https://handbrake.fr
+120,OBS Studio,Media & Screen Recording,Open-source streaming and recording,https://obsproject.com
+121,Audacity,Media & Screen Recording,Open-source audio editor,https://www.audacityteam.org
+122,Kap,Media & Screen Recording,Open-source screen recorder for Mac,https://getkap.co
+123,Cap,Media & Screen Recording,"Open-source screen recorder, Loom alternative",https://cap.so
+124,DaVinci Resolve,Media & Screen Recording,"Pro video editing, free version",https://www.blackmagicdesign.com/products/davinciresolve
+125,Jellyfin,Media & Screen Recording,Open-source media server,https://jellyfin.org
+126,Slack,Communication,Team messaging and collaboration,https://slack.com
+127,Discord,Communication,"Voice, video and text chat",https://discord.com
+128,Signal,Communication,Open-source secure messenger,https://signal.org
+129,Telegram,Communication,Cloud-based messaging app,https://telegram.org
+130,Element,Communication,Open-source Matrix chat client,https://element.io
+131,Thunderbird,Communication,Open-source email client,https://www.thunderbird.net
+132,Mimestream,Communication,Native Gmail client for Mac,https://mimestream.com
+133,Ferdium,Communication,Open-source all-in-one messenger,https://ferdium.org
+134,Zoom,Communication,Video meetings and webinars,https://zoom.us
+135,Beeper,Communication,Universal chat inbox,https://www.beeper.com
+136,Bitwarden,Privacy & Security,Open-source password manager,https://bitwarden.com
+137,KeePassXC,Privacy & Security,Open-source offline password manager,https://keepassxc.org
+138,1Password,Privacy & Security,Popular password manager,https://1password.com
+139,LuLu,Privacy & Security,Open-source firewall by Objective-See,https://objective-see.org/products/lulu.html
+140,Little Snitch,Privacy & Security,Powerful network firewall,https://www.obdev.at/products/littlesnitch
+141,KnockKnock,Privacy & Security,Open-source persistence scanner,https://objective-see.org/products/knockknock.html
+142,Tailscale,Privacy & Security,Zero-config mesh VPN,https://tailscale.com
+143,WireGuard,Privacy & Security,"Open-source fast, modern VPN",https://www.wireguard.com
+144,Mullvad VPN,Privacy & Security,Privacy-focused VPN,https://mullvad.net
+145,Cryptomator,Privacy & Security,Open-source cloud file encryption,https://cryptomator.org
+146,VeraCrypt,Privacy & Security,Open-source disk encryption,https://www.veracrypt.fr
+147,GPG Suite,Privacy & Security,Open-source encryption for macOS,https://gpgtools.org
+148,Actual Budget,Business & Finance,Open-source local-first budgeting,https://actualbudget.org
+149,GnuCash,Business & Finance,Open-source accounting software,https://www.gnucash.org
+150,Granola,Business & Finance,AI meeting notes for Mac,https://www.granola.ai
+151,Canva,Business & Finance,Easy graphic design for everyone,https://www.canva.com
+152,Pitch,Business & Finance,Collaborative presentation tool,https://pitch.com
