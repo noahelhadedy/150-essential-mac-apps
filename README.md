@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-noahelhadedy.com-000000?logo=googlechrome&logoColor=white)](https://noahelhadedy.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-noohelhadedy-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noohelhadedy/)
-[![Twitter](https://img.shields.io/badge/Twitter-@noohelhadedy-1DA1F2?logo=x&logoColor=white)](https://x.com/noohelhadedy)
+[![Twitter](https://img.shields.io/badge/Twitter-@noahelhadedy-1DA1F2?logo=x&logoColor=white)](https://x.com/noahelhadedy)
 [![Instagram](https://img.shields.io/badge/Instagram-@noahelhadedy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/noahelhadedy/)
 
 A curated list of 150+ essential macOS apps — mostly open source — for designers, developers, and founders, grouped so you can find what you need fast.
