@@ -7,7 +7,7 @@
 
 A curated list of 150+ essential macOS apps — mostly open source — for designers, developers, and founders, grouped so you can find what you need fast.
 
-**Total:** 152 apps across 11 categories.
+**Total:** 153 apps across 11 categories.
 
 The full list is also available as [`mac-apps-notion.csv`](mac-apps-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -21,7 +21,7 @@ The full list is also available as [`mac-apps-notion.csv`](mac-apps-notion.csv) 
 - [Tasks & Productivity](#tasks--productivity) — 8
 - [Window Management & Launchers](#window-management--launchers) — 9
 - [Menu Bar & System](#menu-bar--system) — 13
-- [Files & Utilities](#files--utilities) — 11
+- [Files & Utilities](#files--utilities) — 12
 - [Media & Screen Recording](#media--screen-recording) — 9
 - [Communication](#communication) — 10
 - [Privacy & Security](#privacy--security) — 12
@@ -177,6 +177,7 @@ The full list is also available as [`mac-apps-notion.csv`](mac-apps-notion.csv) 
 | 114 | [LocalSend](https://localsend.org) | Open-source AirDrop alternative |
 | 115 | [Transmission](https://transmissionbt.com) | Open-source BitTorrent client |
 | 116 | [Numi](https://numi.app) | Calculator that understands plain language |
+| 117 | [MacClean](https://thulem.com/) | Freemium Mac cleaner for WeChat/QQ/WeCom, Storage Map, and Xcode/AI caches |
 
 ## Media & Screen Recording
 
