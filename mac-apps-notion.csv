@@ -91,63 +91,64 @@
 90,Amethyst,Window Management & Launchers,Open-source tiling window manager,https://ianyh.com/amethyst
 91,Hammerspoon,Window Management & Launchers,Open-source macOS automation with Lua,https://www.hammerspoon.org
 92,BetterTouchTool,Window Management & Launchers,Customize input devices and gestures,https://folivora.ai
-93,Ice,Menu Bar & System,Open-source menu bar manager,https://github.com/jordanbaird/Ice
-94,Bartender,Menu Bar & System,Organize and hide menu bar items,https://www.macbartender.com
-95,Hidden Bar,Menu Bar & System,Open-source menu bar hider,https://github.com/dwarvesf/hidden
-96,Stats,Menu Bar & System,Open-source system monitor in menu bar,https://github.com/exelban/stats
-97,iStat Menus,Menu Bar & System,Advanced system monitor for menu bar,https://bjango.com/mac/istatmenus
-98,Itsycal,Menu Bar & System,Open-source menu bar calendar,https://www.mowglii.com/itsycal
-99,Maccy,Menu Bar & System,Open-source clipboard manager,https://maccy.app
-100,Espanso,Menu Bar & System,Open-source cross-platform text expander,https://espanso.org
-101,Karabiner-Elements,Menu Bar & System,Open-source keyboard customizer,https://karabiner-elements.pqrs.org
-102,MonitorControl,Menu Bar & System,Open-source external display control,https://github.com/MonitorControl/MonitorControl
-103,AlDente,Menu Bar & System,Battery charge limiter for Mac,https://apphousekitchen.com
-104,KeepingYouAwake,Menu Bar & System,Open-source caffeine for Mac,https://github.com/newmarcel/KeepingYouAwake
-105,Amphetamine,Menu Bar & System,"Free, powerful keep-awake utility",https://apps.apple.com/app/amphetamine/id937984704
-106,The Unarchiver,Files & Utilities,"Free, versatile archive extractor",https://theunarchiver.com
-107,Keka,Files & Utilities,Open-source file archiver for Mac,https://www.keka.io
-108,AppCleaner,Files & Utilities,"Free, thorough app uninstaller",https://freemacsoft.net/appcleaner
-109,Pearcleaner,Files & Utilities,Open-source app uninstaller,https://github.com/alienator88/Pearcleaner
-110,Latest,Files & Utilities,Open-source app update checker,https://github.com/mangerlahn/Latest
-111,GrandPerspective,Files & Utilities,Open-source disk usage visualizer,https://grandperspectiv.sourceforge.net
-112,DaisyDisk,Files & Utilities,Visual disk space analyzer,https://daisydiskapp.com
-113,OnyX,Files & Utilities,Free macOS maintenance tool,https://www.titanium-software.fr/en/onyx.html
-114,LocalSend,Files & Utilities,Open-source AirDrop alternative,https://localsend.org
-115,Transmission,Files & Utilities,Open-source BitTorrent client,https://transmissionbt.com
-116,Numi,Files & Utilities,Calculator that understands plain language,https://numi.app
-117,IINA,Media & Screen Recording,Open-source modern media player for Mac,https://iina.io
-118,VLC,Media & Screen Recording,Open-source media player for anything,https://www.videolan.org/vlc
-119,HandBrake,Media & Screen Recording,Open-source video transcoder,https://handbrake.fr
-120,OBS Studio,Media & Screen Recording,Open-source streaming and recording,https://obsproject.com
-121,Audacity,Media & Screen Recording,Open-source audio editor,https://www.audacityteam.org
-122,Kap,Media & Screen Recording,Open-source screen recorder for Mac,https://getkap.co
-123,Cap,Media & Screen Recording,"Open-source screen recorder, Loom alternative",https://cap.so
-124,DaVinci Resolve,Media & Screen Recording,"Pro video editing, free version",https://www.blackmagicdesign.com/products/davinciresolve
-125,Jellyfin,Media & Screen Recording,Open-source media server,https://jellyfin.org
-126,Slack,Communication,Team messaging and collaboration,https://slack.com
-127,Discord,Communication,"Voice, video and text chat",https://discord.com
-128,Signal,Communication,Open-source secure messenger,https://signal.org
-129,Telegram,Communication,Cloud-based messaging app,https://telegram.org
-130,Element,Communication,Open-source Matrix chat client,https://element.io
-131,Thunderbird,Communication,Open-source email client,https://www.thunderbird.net
-132,Mimestream,Communication,Native Gmail client for Mac,https://mimestream.com
-133,Ferdium,Communication,Open-source all-in-one messenger,https://ferdium.org
-134,Zoom,Communication,Video meetings and webinars,https://zoom.us
-135,Beeper,Communication,Universal chat inbox,https://www.beeper.com
-136,Bitwarden,Privacy & Security,Open-source password manager,https://bitwarden.com
-137,KeePassXC,Privacy & Security,Open-source offline password manager,https://keepassxc.org
-138,1Password,Privacy & Security,Popular password manager,https://1password.com
-139,LuLu,Privacy & Security,Open-source firewall by Objective-See,https://objective-see.org/products/lulu.html
-140,Little Snitch,Privacy & Security,Powerful network firewall,https://www.obdev.at/products/littlesnitch
-141,KnockKnock,Privacy & Security,Open-source persistence scanner,https://objective-see.org/products/knockknock.html
-142,Tailscale,Privacy & Security,Zero-config mesh VPN,https://tailscale.com
-143,WireGuard,Privacy & Security,"Open-source fast, modern VPN",https://www.wireguard.com
-144,Mullvad VPN,Privacy & Security,Privacy-focused VPN,https://mullvad.net
-145,Cryptomator,Privacy & Security,Open-source cloud file encryption,https://cryptomator.org
-146,VeraCrypt,Privacy & Security,Open-source disk encryption,https://www.veracrypt.fr
-147,GPG Suite,Privacy & Security,Open-source encryption for macOS,https://gpgtools.org
-148,Actual Budget,Business & Finance,Open-source local-first budgeting,https://actualbudget.org
-149,GnuCash,Business & Finance,Open-source accounting software,https://www.gnucash.org
-150,Granola,Business & Finance,AI meeting notes for Mac,https://www.granola.ai
-151,Canva,Business & Finance,Easy graphic design for everyone,https://www.canva.com
-152,Pitch,Business & Finance,Collaborative presentation tool,https://pitch.com
+93,LayoutKeeper,Window Management & Launchers,Open-source multi-monitor window layout and DDC display manager,https://github.com/tumingke0/LayoutKeeper
+94,Ice,Menu Bar & System,Open-source menu bar manager,https://github.com/jordanbaird/Ice
+95,Bartender,Menu Bar & System,Organize and hide menu bar items,https://www.macbartender.com
+96,Hidden Bar,Menu Bar & System,Open-source menu bar hider,https://github.com/dwarvesf/hidden
+97,Stats,Menu Bar & System,Open-source system monitor in menu bar,https://github.com/exelban/stats
+98,iStat Menus,Menu Bar & System,Advanced system monitor for menu bar,https://bjango.com/mac/istatmenus
+99,Itsycal,Menu Bar & System,Open-source menu bar calendar,https://www.mowglii.com/itsycal
+100,Maccy,Menu Bar & System,Open-source clipboard manager,https://maccy.app
+101,Espanso,Menu Bar & System,Open-source cross-platform text expander,https://espanso.org
+102,Karabiner-Elements,Menu Bar & System,Open-source keyboard customizer,https://karabiner-elements.pqrs.org
+103,MonitorControl,Menu Bar & System,Open-source external display control,https://github.com/MonitorControl/MonitorControl
+104,AlDente,Menu Bar & System,Battery charge limiter for Mac,https://apphousekitchen.com
+105,KeepingYouAwake,Menu Bar & System,Open-source caffeine for Mac,https://github.com/newmarcel/KeepingYouAwake
+106,Amphetamine,Menu Bar & System,"Free, powerful keep-awake utility",https://apps.apple.com/app/amphetamine/id937984704
+107,The Unarchiver,Files & Utilities,"Free, versatile archive extractor",https://theunarchiver.com
+108,Keka,Files & Utilities,Open-source file archiver for Mac,https://www.keka.io
+109,AppCleaner,Files & Utilities,"Free, thorough app uninstaller",https://freemacsoft.net/appcleaner
+110,Pearcleaner,Files & Utilities,Open-source app uninstaller,https://github.com/alienator88/Pearcleaner
+111,Latest,Files & Utilities,Open-source app update checker,https://github.com/mangerlahn/Latest
+112,GrandPerspective,Files & Utilities,Open-source disk usage visualizer,https://grandperspectiv.sourceforge.net
+113,DaisyDisk,Files & Utilities,Visual disk space analyzer,https://daisydiskapp.com
+114,OnyX,Files & Utilities,Free macOS maintenance tool,https://www.titanium-software.fr/en/onyx.html
+115,LocalSend,Files & Utilities,Open-source AirDrop alternative,https://localsend.org
+116,Transmission,Files & Utilities,Open-source BitTorrent client,https://transmissionbt.com
+117,Numi,Files & Utilities,Calculator that understands plain language,https://numi.app
+118,IINA,Media & Screen Recording,Open-source modern media player for Mac,https://iina.io
+119,VLC,Media & Screen Recording,Open-source media player for anything,https://www.videolan.org/vlc
+120,HandBrake,Media & Screen Recording,Open-source video transcoder,https://handbrake.fr
+121,OBS Studio,Media & Screen Recording,Open-source streaming and recording,https://obsproject.com
+122,Audacity,Media & Screen Recording,Open-source audio editor,https://www.audacityteam.org
+123,Kap,Media & Screen Recording,Open-source screen recorder for Mac,https://getkap.co
+124,Cap,Media & Screen Recording,"Open-source screen recorder, Loom alternative",https://cap.so
+125,DaVinci Resolve,Media & Screen Recording,"Pro video editing, free version",https://www.blackmagicdesign.com/products/davinciresolve
+126,Jellyfin,Media & Screen Recording,Open-source media server,https://jellyfin.org
+127,Slack,Communication,Team messaging and collaboration,https://slack.com
+128,Discord,Communication,"Voice, video and text chat",https://discord.com
+129,Signal,Communication,Open-source secure messenger,https://signal.org
+130,Telegram,Communication,Cloud-based messaging app,https://telegram.org
+131,Element,Communication,Open-source Matrix chat client,https://element.io
+132,Thunderbird,Communication,Open-source email client,https://www.thunderbird.net
+133,Mimestream,Communication,Native Gmail client for Mac,https://mimestream.com
+134,Ferdium,Communication,Open-source all-in-one messenger,https://ferdium.org
+135,Zoom,Communication,Video meetings and webinars,https://zoom.us
+136,Beeper,Communication,Universal chat inbox,https://www.beeper.com
+137,Bitwarden,Privacy & Security,Open-source password manager,https://bitwarden.com
+138,KeePassXC,Privacy & Security,Open-source offline password manager,https://keepassxc.org
+139,1Password,Privacy & Security,Popular password manager,https://1password.com
+140,LuLu,Privacy & Security,Open-source firewall by Objective-See,https://objective-see.org/products/lulu.html
+141,Little Snitch,Privacy & Security,Powerful network firewall,https://www.obdev.at/products/littlesnitch
+142,KnockKnock,Privacy & Security,Open-source persistence scanner,https://objective-see.org/products/knockknock.html
+143,Tailscale,Privacy & Security,Zero-config mesh VPN,https://tailscale.com
+144,WireGuard,Privacy & Security,"Open-source fast, modern VPN",https://www.wireguard.com
+145,Mullvad VPN,Privacy & Security,Privacy-focused VPN,https://mullvad.net
+146,Cryptomator,Privacy & Security,Open-source cloud file encryption,https://cryptomator.org
+147,VeraCrypt,Privacy & Security,Open-source disk encryption,https://www.veracrypt.fr
+148,GPG Suite,Privacy & Security,Open-source encryption for macOS,https://gpgtools.org
+149,Actual Budget,Business & Finance,Open-source local-first budgeting,https://actualbudget.org
+150,GnuCash,Business & Finance,Open-source accounting software,https://www.gnucash.org
+151,Granola,Business & Finance,AI meeting notes for Mac,https://www.granola.ai
+152,Canva,Business & Finance,Easy graphic design for everyone,https://www.canva.com
+153,Pitch,Business & Finance,Collaborative presentation tool,https://pitch.com

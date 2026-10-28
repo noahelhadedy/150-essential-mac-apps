@@ -7,7 +7,7 @@
 
 A curated list of 150+ essential macOS apps — mostly open source — for designers, developers, and founders, grouped so you can find what you need fast.
 
-**Total:** 152 apps across 11 categories.
+**Total:** 153 apps across 11 categories.
 
 The full list is also available as [`mac-apps-notion.csv`](mac-apps-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -19,7 +19,7 @@ The full list is also available as [`mac-apps-notion.csv`](mac-apps-notion.csv) 
 - [Design & Creative](#design--creative) — 20
 - [Notes & Writing](#notes--writing) — 18
 - [Tasks & Productivity](#tasks--productivity) — 8
-- [Window Management & Launchers](#window-management--launchers) — 9
+- [Window Management & Launchers](#window-management--launchers) — 10
 - [Menu Bar & System](#menu-bar--system) — 13
 - [Files & Utilities](#files--utilities) — 11
 - [Media & Screen Recording](#media--screen-recording) — 9
@@ -143,96 +143,97 @@ The full list is also available as [`mac-apps-notion.csv`](mac-apps-notion.csv) 
 | 90 | [Amethyst](https://ianyh.com/amethyst) | Open-source tiling window manager |
 | 91 | [Hammerspoon](https://www.hammerspoon.org) | Open-source macOS automation with Lua |
 | 92 | [BetterTouchTool](https://folivora.ai) | Customize input devices and gestures |
+| 93 | [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) | Open-source multi-monitor window layout and DDC display manager |
 
 ## Menu Bar & System
 
 | # | App | Description |
 | --- | --- | --- |
-| 93 | [Ice](https://github.com/jordanbaird/Ice) | Open-source menu bar manager |
-| 94 | [Bartender](https://www.macbartender.com) | Organize and hide menu bar items |
-| 95 | [Hidden Bar](https://github.com/dwarvesf/hidden) | Open-source menu bar hider |
-| 96 | [Stats](https://github.com/exelban/stats) | Open-source system monitor in menu bar |
-| 97 | [iStat Menus](https://bjango.com/mac/istatmenus) | Advanced system monitor for menu bar |
-| 98 | [Itsycal](https://www.mowglii.com/itsycal) | Open-source menu bar calendar |
-| 99 | [Maccy](https://maccy.app) | Open-source clipboard manager |
-| 100 | [Espanso](https://espanso.org) | Open-source cross-platform text expander |
-| 101 | [Karabiner-Elements](https://karabiner-elements.pqrs.org) | Open-source keyboard customizer |
-| 102 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | Open-source external display control |
-| 103 | [AlDente](https://apphousekitchen.com) | Battery charge limiter for Mac |
-| 104 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Open-source caffeine for Mac |
-| 105 | [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) | Free, powerful keep-awake utility |
+| 94 | [Ice](https://github.com/jordanbaird/Ice) | Open-source menu bar manager |
+| 95 | [Bartender](https://www.macbartender.com) | Organize and hide menu bar items |
+| 96 | [Hidden Bar](https://github.com/dwarvesf/hidden) | Open-source menu bar hider |
+| 97 | [Stats](https://github.com/exelban/stats) | Open-source system monitor in menu bar |
+| 98 | [iStat Menus](https://bjango.com/mac/istatmenus) | Advanced system monitor for menu bar |
+| 99 | [Itsycal](https://www.mowglii.com/itsycal) | Open-source menu bar calendar |
+| 100 | [Maccy](https://maccy.app) | Open-source clipboard manager |
+| 101 | [Espanso](https://espanso.org) | Open-source cross-platform text expander |
+| 102 | [Karabiner-Elements](https://karabiner-elements.pqrs.org) | Open-source keyboard customizer |
+| 103 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | Open-source external display control |
+| 104 | [AlDente](https://apphousekitchen.com) | Battery charge limiter for Mac |
+| 105 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Open-source caffeine for Mac |
+| 106 | [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) | Free, powerful keep-awake utility |
 
 ## Files & Utilities
 
 | # | App | Description |
 | --- | --- | --- |
-| 106 | [The Unarchiver](https://theunarchiver.com) | Free, versatile archive extractor |
-| 107 | [Keka](https://www.keka.io) | Open-source file archiver for Mac |
-| 108 | [AppCleaner](https://freemacsoft.net/appcleaner) | Free, thorough app uninstaller |
-| 109 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | Open-source app uninstaller |
-| 110 | [Latest](https://github.com/mangerlahn/Latest) | Open-source app update checker |
-| 111 | [GrandPerspective](https://grandperspectiv.sourceforge.net) | Open-source disk usage visualizer |
-| 112 | [DaisyDisk](https://daisydiskapp.com) | Visual disk space analyzer |
-| 113 | [OnyX](https://www.titanium-software.fr/en/onyx.html) | Free macOS maintenance tool |
-| 114 | [LocalSend](https://localsend.org) | Open-source AirDrop alternative |
-| 115 | [Transmission](https://transmissionbt.com) | Open-source BitTorrent client |
-| 116 | [Numi](https://numi.app) | Calculator that understands plain language |
+| 107 | [The Unarchiver](https://theunarchiver.com) | Free, versatile archive extractor |
+| 108 | [Keka](https://www.keka.io) | Open-source file archiver for Mac |
+| 109 | [AppCleaner](https://freemacsoft.net/appcleaner) | Free, thorough app uninstaller |
+| 110 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | Open-source app uninstaller |
+| 111 | [Latest](https://github.com/mangerlahn/Latest) | Open-source app update checker |
+| 112 | [GrandPerspective](https://grandperspectiv.sourceforge.net) | Open-source disk usage visualizer |
+| 113 | [DaisyDisk](https://daisydiskapp.com) | Visual disk space analyzer |
+| 114 | [OnyX](https://www.titanium-software.fr/en/onyx.html) | Free macOS maintenance tool |
+| 115 | [LocalSend](https://localsend.org) | Open-source AirDrop alternative |
+| 116 | [Transmission](https://transmissionbt.com) | Open-source BitTorrent client |
+| 117 | [Numi](https://numi.app) | Calculator that understands plain language |
 
 ## Media & Screen Recording
 
 | # | App | Description |
 | --- | --- | --- |
-| 117 | [IINA](https://iina.io) | Open-source modern media player for Mac |
-| 118 | [VLC](https://www.videolan.org/vlc) | Open-source media player for anything |
-| 119 | [HandBrake](https://handbrake.fr) | Open-source video transcoder |
-| 120 | [OBS Studio](https://obsproject.com) | Open-source streaming and recording |
-| 121 | [Audacity](https://www.audacityteam.org) | Open-source audio editor |
-| 122 | [Kap](https://getkap.co) | Open-source screen recorder for Mac |
-| 123 | [Cap](https://cap.so) | Open-source screen recorder, Loom alternative |
-| 124 | [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Pro video editing, free version |
-| 125 | [Jellyfin](https://jellyfin.org) | Open-source media server |
+| 118 | [IINA](https://iina.io) | Open-source modern media player for Mac |
+| 119 | [VLC](https://www.videolan.org/vlc) | Open-source media player for anything |
+| 120 | [HandBrake](https://handbrake.fr) | Open-source video transcoder |
+| 121 | [OBS Studio](https://obsproject.com) | Open-source streaming and recording |
+| 122 | [Audacity](https://www.audacityteam.org) | Open-source audio editor |
+| 123 | [Kap](https://getkap.co) | Open-source screen recorder for Mac |
+| 124 | [Cap](https://cap.so) | Open-source screen recorder, Loom alternative |
+| 125 | [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Pro video editing, free version |
+| 126 | [Jellyfin](https://jellyfin.org) | Open-source media server |
 
 ## Communication
 
 | # | App | Description |
 | --- | --- | --- |
-| 126 | [Slack](https://slack.com) | Team messaging and collaboration |
-| 127 | [Discord](https://discord.com) | Voice, video and text chat |
-| 128 | [Signal](https://signal.org) | Open-source secure messenger |
-| 129 | [Telegram](https://telegram.org) | Cloud-based messaging app |
-| 130 | [Element](https://element.io) | Open-source Matrix chat client |
-| 131 | [Thunderbird](https://www.thunderbird.net) | Open-source email client |
-| 132 | [Mimestream](https://mimestream.com) | Native Gmail client for Mac |
-| 133 | [Ferdium](https://ferdium.org) | Open-source all-in-one messenger |
-| 134 | [Zoom](https://zoom.us) | Video meetings and webinars |
-| 135 | [Beeper](https://www.beeper.com) | Universal chat inbox |
+| 127 | [Slack](https://slack.com) | Team messaging and collaboration |
+| 128 | [Discord](https://discord.com) | Voice, video and text chat |
+| 129 | [Signal](https://signal.org) | Open-source secure messenger |
+| 130 | [Telegram](https://telegram.org) | Cloud-based messaging app |
+| 131 | [Element](https://element.io) | Open-source Matrix chat client |
+| 132 | [Thunderbird](https://www.thunderbird.net) | Open-source email client |
+| 133 | [Mimestream](https://mimestream.com) | Native Gmail client for Mac |
+| 134 | [Ferdium](https://ferdium.org) | Open-source all-in-one messenger |
+| 135 | [Zoom](https://zoom.us) | Video meetings and webinars |
+| 136 | [Beeper](https://www.beeper.com) | Universal chat inbox |
 
 ## Privacy & Security
 
 | # | App | Description |
 | --- | --- | --- |
-| 136 | [Bitwarden](https://bitwarden.com) | Open-source password manager |
-| 137 | [KeePassXC](https://keepassxc.org) | Open-source offline password manager |
-| 138 | [1Password](https://1password.com) | Popular password manager |
-| 139 | [LuLu](https://objective-see.org/products/lulu.html) | Open-source firewall by Objective-See |
-| 140 | [Little Snitch](https://www.obdev.at/products/littlesnitch) | Powerful network firewall |
-| 141 | [KnockKnock](https://objective-see.org/products/knockknock.html) | Open-source persistence scanner |
-| 142 | [Tailscale](https://tailscale.com) | Zero-config mesh VPN |
-| 143 | [WireGuard](https://www.wireguard.com) | Open-source fast, modern VPN |
-| 144 | [Mullvad VPN](https://mullvad.net) | Privacy-focused VPN |
-| 145 | [Cryptomator](https://cryptomator.org) | Open-source cloud file encryption |
-| 146 | [VeraCrypt](https://www.veracrypt.fr) | Open-source disk encryption |
-| 147 | [GPG Suite](https://gpgtools.org) | Open-source encryption for macOS |
+| 137 | [Bitwarden](https://bitwarden.com) | Open-source password manager |
+| 138 | [KeePassXC](https://keepassxc.org) | Open-source offline password manager |
+| 139 | [1Password](https://1password.com) | Popular password manager |
+| 140 | [LuLu](https://objective-see.org/products/lulu.html) | Open-source firewall by Objective-See |
+| 141 | [Little Snitch](https://www.obdev.at/products/littlesnitch) | Powerful network firewall |
+| 142 | [KnockKnock](https://objective-see.org/products/knockknock.html) | Open-source persistence scanner |
+| 143 | [Tailscale](https://tailscale.com) | Zero-config mesh VPN |
+| 144 | [WireGuard](https://www.wireguard.com) | Open-source fast, modern VPN |
+| 145 | [Mullvad VPN](https://mullvad.net) | Privacy-focused VPN |
+| 146 | [Cryptomator](https://cryptomator.org) | Open-source cloud file encryption |
+| 147 | [VeraCrypt](https://www.veracrypt.fr) | Open-source disk encryption |
+| 148 | [GPG Suite](https://gpgtools.org) | Open-source encryption for macOS |
 
 ## Business & Finance
 
 | # | App | Description |
 | --- | --- | --- |
-| 148 | [Actual Budget](https://actualbudget.org) | Open-source local-first budgeting |
-| 149 | [GnuCash](https://www.gnucash.org) | Open-source accounting software |
-| 150 | [Granola](https://www.granola.ai) | AI meeting notes for Mac |
-| 151 | [Canva](https://www.canva.com) | Easy graphic design for everyone |
-| 152 | [Pitch](https://pitch.com) | Collaborative presentation tool |
+| 149 | [Actual Budget](https://actualbudget.org) | Open-source local-first budgeting |
+| 150 | [GnuCash](https://www.gnucash.org) | Open-source accounting software |
+| 151 | [Granola](https://www.granola.ai) | AI meeting notes for Mac |
+| 152 | [Canva](https://www.canva.com) | Easy graphic design for everyone |
+| 153 | [Pitch](https://pitch.com) | Collaborative presentation tool |
 
 ## Columns (CSV)
 
