@@ -161,6 +161,7 @@ The full list is also available as [`mac-apps-notion.csv`](mac-apps-notion.csv) 
 | 103 | [AlDente](https://apphousekitchen.com) | Battery charge limiter for Mac |
 | 104 | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | Open-source caffeine for Mac |
 | 105 | [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) | Free, powerful keep-awake utility |
+| 153 | [Mouse Jiggler for Mac](https://mousejigglermac.com/) | Menu bar app that keeps your Mac awake, with scheduled cursor movement |
 
 ## Files & Utilities
 
